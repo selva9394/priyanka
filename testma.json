@@ -1,7 +1,7 @@
 {
 
 
-            "americasRegion" : ["https://www.volvocars.com/ar",
+            "americasRegion" : ["https://www.volvocars.com/us",
             "https://www.volvocars.com/br",
             "https://www.volvocars.com/en-ca",
             "https://www.volvocars.com/fr-ca",
@@ -14,7 +14,7 @@
             "https://www.volvocars.com/py",
             "https://www.volvocars.com/pe",
             "https://www.volvocars.com/pr",
-            "https://www.volvocars.com/us"],
+            "https://www.volvocars.com/ar"],
             
             
 "apacRegion" : ["https://www.volvocars.com/au",
